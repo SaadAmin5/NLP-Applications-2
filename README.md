@@ -3,11 +3,15 @@
 I was given the following task to complete:
 
 Follow these steps:
+
 ● Read the introduction about garden path sentences and study a few of
 the examples provided on Wikipedia.
+
 ● Create a new Python file called garden.py and save it to your Dropbox
 folder for this task.
+
 ● Find at least 2 garden path sentences from the web, or think up your own.
+
 ● Store the sentences you have identified or created in a list called
 gardenpathSentences.
 
