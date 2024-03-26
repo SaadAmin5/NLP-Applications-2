@@ -23,7 +23,7 @@ print('\n')
 for sentence in gardenpathSentences:
     nlp_sentence=nlp(sentence)       #processing the text usig nlp
     
-    for token in nlp_sentence.ents:    #creating token i.e. tokenization and performing Named Entity Recognition (NER)
+    for token in nlp_sentence.ents:    #creating token (tokenization) and performing Named Entity Recognition (NER)
         print('Entity: ',token.text, ',','Label: ', token.label_, ',', token.label)
 
 print('\n')
